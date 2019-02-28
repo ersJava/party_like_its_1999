@@ -5,7 +5,7 @@
 # Party Like It's 1999!
 > Feeling nostalgic about the 90s? Test your music knowledge here! 
 
-https://jixuni.github.io/party_like_its_1999/
+https://ersjava.github.io/party_like_its_1999/
 
 An interactive web browser game that dynamically displays the HTML with the jQuery library and pulls data from multiple APIs.
 
